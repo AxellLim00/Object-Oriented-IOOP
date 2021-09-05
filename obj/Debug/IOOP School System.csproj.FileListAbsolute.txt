@@ -1,0 +1,159 @@
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\bin\Debug\IOOP School System.exe.config
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\bin\Debug\IOOP School System.exe
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\bin\Debug\IOOP School System.pdb
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP School System.csprojAssemblyReference.cache
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.LoginPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.Properties.Resources.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP School System.csproj.GenerateResource.cache
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP School System.csproj.CoreCompileInputs.cache
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP School System.exe
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP School System.pdb
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.ClassTutorPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.HomeTutorPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.FinanceStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.TableStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.UpdateStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.HomeStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.StudentTutorPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.HomeStaffPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.RegisterStaffPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.CreateClassPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System\IOOP School System\obj\Debug\IOOP_School_System.UpdateClassPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\bin\Debug\IOOP School System.exe.config
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\bin\Debug\IOOP School System.exe
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\bin\Debug\IOOP School System.pdb
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP School System.csprojAssemblyReference.cache
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.FeeStaffPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.HomeStaffPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.RegisterStaffPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.CreateClassPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.ClassTutorPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.HomeTutorPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.FinanceStudentPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.TableStudentPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.UpdateStudentPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.LoginPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.HomeStudentPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.Properties.Resources.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.StudentTutorPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP_School_System.UpdateClassPage.resources
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP School System.csproj.GenerateResource.cache
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP School System.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP School System.exe
+D:\KULIAH\Semester 2\IOOP\Assignment IOOP\IOOP School System\obj\Debug\IOOP School System.pdb
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\bin\Debug\IOOP School System.exe.config
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\bin\Debug\IOOP School System.exe
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\bin\Debug\IOOP School System.pdb
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP School System.csprojAssemblyReference.cache
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.FeeStaffPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.HomeStaffPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.RegisterStaffPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.CreateClassPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.ClassTutorPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.HomeTutorPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.FinanceStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.TableStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.UpdateStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.LoginPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.HomeStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.Properties.Resources.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.StudentTutorPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP_School_System.UpdateClassPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP School System.csproj.GenerateResource.cache
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP School System.csproj.CoreCompileInputs.cache
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP School System.exe
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.4\IOOP School System\obj\Debug\IOOP School System.pdb
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.csprojAssemblyReference.cache
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.CourseStaffPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.FeeStaffPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.HomeStaffPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.RegisterStaffPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.CreateClassPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.ClassTutorPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.HomeTutorPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.FinanceStudentPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.TableStudentPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.UpdateStudentPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.LoginPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.HomeStudentPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.Properties.Resources.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.StudentTutorPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.UpdateClassPage.resources
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.csproj.GenerateResource.cache
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.csproj.CoreCompileInputs.cache
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.exe
+D:\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.pdb
+D:\IOOP School System V 0.6\IOOP School System\bin\Debug\IOOP School System.exe.config
+D:\IOOP School System V 0.6\IOOP School System\bin\Debug\IOOP School System.exe
+D:\IOOP School System V 0.6\IOOP School System\bin\Debug\IOOP School System.pdb
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\bin\Debug\IOOP School System.exe.config
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\bin\Debug\IOOP School System.exe
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\bin\Debug\IOOP School System.pdb
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.csprojAssemblyReference.cache
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.CourseStaffPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.FeeStaffPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.HomeStaffPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.RegisterStaffPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.CreateClassPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.ClassTutorPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.HomeTutorPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.FinanceStudentPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.TableStudentPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.UpdateStudentPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.LoginPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.HomeStudentPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.Properties.Resources.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.StudentTutorPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.UpdateClassPage.resources
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.csproj.GenerateResource.cache
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.exe
+C:\Users\Ivan Estrada Hamzar\OneDrive - Asia Pacific University\Desktop\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.pdb
+X:\Downloads\IOOP School System V 0.6\IOOP School System\bin\Debug\IOOP School System.exe.config
+X:\Downloads\IOOP School System V 0.6\IOOP School System\bin\Debug\IOOP School System.exe
+X:\Downloads\IOOP School System V 0.6\IOOP School System\bin\Debug\IOOP School System.pdb
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.csprojAssemblyReference.cache
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.CourseStaffPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.FeeStaffPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.HomeStaffPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.RegisterStaffPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.CreateClassPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.ClassTutorPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.HomeTutorPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.FinanceStudentPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.TableStudentPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.UpdateStudentPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.LoginPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.HomeStudentPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.Properties.Resources.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.StudentTutorPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP_School_System.UpdateClassPage.resources
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.csproj.GenerateResource.cache
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.csproj.CoreCompileInputs.cache
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.exe
+X:\Downloads\IOOP School System V 0.6\IOOP School System\obj\Debug\IOOP School System.pdb
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP School System.csprojAssemblyReference.cache
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.CourseStaffPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.FeeStaffPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.HomeStaffPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.RegisterStaffPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.CreateClassPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.ClassTutorPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.HomeTutorPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.FinanceStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.TableStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.UpdateStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.LoginPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.HomeStudentPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.Properties.Resources.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.StudentTutorPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP_School_System.UpdateClassPage.resources
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP School System.csproj.GenerateResource.cache
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP School System.csproj.CoreCompileInputs.cache
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP School System.exe
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\obj\Debug\IOOP School System.pdb
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\bin\Debug\IOOP School System.exe.config
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\bin\Debug\IOOP School System.exe
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\bin\Debug\IOOP School System.pdb
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\bin\Debug\IOOP School System.exe.CodeAnalysisLog.xml
+X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\bin\Debug\IOOP School System.exe.lastcodeanalysissucceeded

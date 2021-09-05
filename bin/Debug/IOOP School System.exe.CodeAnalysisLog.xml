@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2017\enterprise\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="15.0">
+ <Targets>
+  <Target Name="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\bin\Debug\IOOP School System.exe">
+   <Modules>
+    <Module Name="ioop school system.exe">
+     <Namespaces>
+      <Namespace Name="IOOP_School_System">
+       <Types>
+        <Type Name="CreateClassPage" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#buttonCreateClass_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2019-06-09 17:50:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\Tutor" File="Create Class Page.cs" Line="136">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'CreateClassPage.buttonCreateClass_Click(object, EventArgs)' could contain the following variables 'this.comboBox_Location.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\Tutor" File="Create Class Page.cs" Line="197">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'CreateClassPage.buttonCreateClass_Click(object, EventArgs)' could contain the following variables 'this.textBox_CourseID.Text', 'this.textBox_Course_Name.Text', 'this.comboBox_Location.Text', 'this.comboBox_ClassStart.Text', 'this.comboBox_ClassEnd.Text', 'this.textBox_fee.Text', 'GlobalVar.UserID', 'this.comboBox_Day.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="DataSet1" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2019-06-09 17:50:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type 'DataSet1'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="SQL" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2019-06-09 17:50:31Z" FixCategory="NonBreaking">
+           <Issue Name="NonBreaking" Certainty="95" Level="CriticalError">Implement IDisposable on 'SQL' because it creates members of the following IDisposable types: 'OleDbConnection'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#Check(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2019-06-09 17:50:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System" File="SQL.cs" Line="360">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'SQL.Check(string)' could contain the following variables 'this.SELECT', 'this.FROM', 'this.JOIN', 'this.WHERE'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#DisplayGridTable(System.Windows.Forms.DataGridView)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2019-06-09 17:50:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System" File="SQL.cs" Line="405">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'SQL.DisplayGridTable(DataGridView)' could contain the following variables 'this.SELECT', 'this.FROM', 'this.JOIN', 'this.WHERE'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#FillComboBox(System.Windows.Forms.ComboBox)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2019-06-09 17:50:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System" File="SQL.cs" Line="420">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'SQL.FillComboBox(ComboBox)' could contain the following variables 'this.SELECT', 'this.FROM', 'this.JOIN', 'this.WHERE'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetData(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2019-06-09 17:50:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System" File="SQL.cs" Line="439">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'SQL.GetData(int)' could contain the following variables 'this.SELECT', 'this.FROM', 'this.JOIN', 'this.WHERE'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Insert()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2019-06-09 17:50:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System" File="SQL.cs" Line="340">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'SQL.Insert()' could contain the following variables 'this.INSERT', 'this.VALUES'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Read()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2019-06-09 17:50:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System" File="SQL.cs" Line="385">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'SQL.Read()' could contain the following variables 'this.SELECT', 'this.FROM', 'this.JOIN', 'this.WHERE'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Update()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2019-06-09 17:50:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System" File="SQL.cs" Line="320">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'SQL.Update()' could contain the following variables 'this.UPDATE', 'this.SET', 'this.WHERE'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="UpdateClassPage" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#buttonUpdate_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2019-06-09 17:50:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\Tutor" File="Update Class Page.cs" Line="305">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'UpdateClassPage.buttonUpdate_Click(object, EventArgs)' could contain the following variables 'this.comboBox_ClassStart.Text', 'this.comboBox_ClassEnd.Text', 'this.comboBox_Location.Text', 'this.textBox_NewInfo.Text', 'this.comboBox_CourseID.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\Tutor" File="Update Class Page.cs" Line="185">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'UpdateClassPage.buttonUpdate_Click(object, EventArgs)' could contain the following variables 'this.comboBox_CourseID.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\Tutor" File="Update Class Page.cs" Line="210">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'UpdateClassPage.buttonUpdate_Click(object, EventArgs)' could contain the following variables 'this.comboBox_Location.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="X:\OneDrive - Asia Pacific University\UNI\Semester 2\IOOP (Introduction to Object Oriented PRogramming)\Assignement\IOOP School System V 0.7\IOOP School System\Tutor" File="Update Class Page.cs" Line="260">The query string passed to 'OleDbCommand.CommandText.set(string)' in 'UpdateClassPage.buttonUpdate_Click(object, EventArgs)' could contain the following variables 'this.currentLocation'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="IOOP_School_System.Properties">
+       <Types>
+        <Type Name="Resources" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="ExcludedInSource" Created="2019-06-09 17:50:31Z" FixCategory="NonBreaking" LastSeen="0001-01-01 00:00:00Z" />
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811">
+   <Name>Avoid uncalled private code</Name>
+   <Description>There is uncalled code that is not externally visible and is not a known runtime entry point. If this violation fires in error, please send a problem report to the Visual Studio Code Analysis team.</Description>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182264.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240">
+   <Name>Implement ISerializable correctly</Name>
+   <Description>If a type is assignable to ISerializable, it should implement GetObjectData. For unsealed types, the GetObjectData method should be callable and overridable by derived types.</Description>
+   <Resolution Name="Default">Add an implementation of GetObjectData to type {0}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182342.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="60">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Review SQL queries for security vulnerabilities</Name>
+   <Description>A SQL command string built from user input is vulnerable to SQL injection attacks. Microsoft SQL Server and other database servers support stored procedures and parameterized SQL queries, which reduce the risk of injection attacks.</Description>
+   <Resolution Name="WithNonLiterals">The query string passed to {0} in {1} could contain the following variables {2}. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001">
+   <Name>Types that own disposable fields should be disposable</Name>
+   <Description>Types that declare disposable members should also implement IDisposable. If the type does not own any unmanaged resources, do not implement a finalizer on it.</Description>
+   <Resolution Name="NonBreaking">Implement IDisposable on {0} because it creates members of the following IDisposable types: {1}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182172.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="15.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>
